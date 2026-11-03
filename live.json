@@ -1,6 +1,7 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
   "activeSets": [],
+  "unlockedModes": ["roadtrip", "garden"],
   "hiddenModes": [],
   "events": [],
   "mysteryOdds": [],
